@@ -2,10 +2,10 @@ theme: jekyll-theme-minimal
 font-icon: /assets/css/font-awesome-4.7.0/css/font-awesome.min.css
 
 # 你的求职方向，比如前端开发工程师等
-title: NBA球员/小前锋/大前锋/控卫
+title: 前端工程师
 
 # 对你自己的简洁描述
-description: 小皇帝篮球智商极高、突破犀利，拥有出色的视野和传球技术，被认为是NBA有史以来最为全能的球员之一
+description: 牛逼
 
 # 你的美照地址
 logo: /assets/images/me.jpg
